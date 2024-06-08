@@ -1,4 +1,5 @@
-from funcoes import *
+from service.funcoes import *
+
 
 def main():
 
